@@ -1,0 +1,8 @@
+social:
+  fab fa-github: https://github.com/mandaloo || Github
+  fas fa-envelope: mailto:iamjyding@163.com || Email
+
+index_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
+
+avatar:
+  img: /img/avatar.png
